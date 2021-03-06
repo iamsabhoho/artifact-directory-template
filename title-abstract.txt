@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<CoCoDroid: Detecting Malware By Building Common Graph Using Control Flow Graph>
 
 Abstract:
 <MY SUPER AWESOME PROJECT ABSTRACT>
