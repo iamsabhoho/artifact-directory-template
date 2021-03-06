@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/iamsabhoho/artifact-directory-template.git",
+    "project-repository": "https://github.com/iamsabhoho/dsc180b-malware.git",
+    "dockerhub-repository": "edwin5588/dsc180a-docker:latest",
+    "project-website-url": "https://iamsabhoho.github.io/dsc180b-malware/",
+    "project-website-code": "https://github.com/iamsabhoho/iamsabhoho.github.io.git"
 }
